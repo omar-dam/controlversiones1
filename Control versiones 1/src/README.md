@@ -11,4 +11,5 @@ Main --> Calculadora
 
 ## Criterio de validación
 
-Si se llama a la funcion suma(5, 5) debe devolver e imprimir 10
+Si se llama a la funcion suma(5, 8) debe devolver e imprimir 10
+Si se llama a la funcion suma(10, 5) debe devolver e imprimir 5

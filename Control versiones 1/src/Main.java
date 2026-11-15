@@ -4,5 +4,6 @@ public class Main {
         Calculadora calc = new Calculadora();
 
         System.out.println(calc.sumar(5,8));
+        System.out.println(calc.restar(10, 5));
     }
 }
